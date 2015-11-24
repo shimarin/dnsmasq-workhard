@@ -1,6 +1,6 @@
 # dnsmasq-workhard
 
-仕事に集中するための /etc/dnsmasq.conf を生成するためのスクリプトと、ホワイトリストとなるドメイン名一覧ファイル郡。
+仕事に集中するための /etc/dnsmasq.conf を生成するためのスクリプトと、ホワイトリストとなるドメイン名一覧ファイル群。
 
 このconfでdnsmasqを起動して /etc/resolv.conf を nameserver localhostにする。
 
