@@ -1,4 +1,5 @@
 nginx.org
+ubuntu.com
 jsoup.org
 mediawiki.org
 gnu.org
@@ -11,6 +12,12 @@ x.org
 redmine.org
 nodejs.org
 discourse.org
+pimcore.org
+rucaro.org
+xenproject.org
+xen.org
+osdev.org
+phoronix.com
 
 #logback
 qos.ch
@@ -42,7 +49,6 @@ mozilla.net
 owncloud.org
 atom.io
 npmjs.org
-kernel.org
 centos.org
 opensuse.org
 samba.gr.jp
